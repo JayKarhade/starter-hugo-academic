@@ -67,9 +67,9 @@ Hi there!
 
 I’m a final year student at BITS Pilani, Hyderabad Campus. I focus on applying Computer Vision and Machine Learning for varied applications ranging from AI for healthcare to Robot Perception and Robot Learning.
 
-At the moment, I am pursuing my undergraduate thesis at the Advanced Robotics Centre,NUS where I am advised by Prof. Marcelo Ang. I’m working on Neural Rendering for Point Clouds at the moment and researching on AI for Visual SLAM systems for my thesis. Alongside, i am working on applying few-shot learning for healthcare diagnostics. I interned at the Edifice Lab over the course of the summer for developing collaborative dense SLAM systems and Point Cloud Compression.
+At the moment, I am pursuing my undergraduate thesis at the Advanced Robotics Centre,NUS where I am advised by Prof. Marcelo Ang on Neural Rendering for Point Clouds and 3D Vision problems. Alongside, I am applying few-shot learning for healthcare diagnostics. I interned at the [Edifice Lab,ASU](https://edificelab.com/) over the course of the summer for developing collaborative dense SLAM systems and Point Cloud Compression.
 
-I am fortunate to have actively collaborated with [Dr. Rajesh Kumar Tripathy](https://scholar.google.com/citations?user=cvw_YK8AAAAJ&hl=en), Dr. Parikshit Sahatiya(https://scholar.google.co.in/citations?user=sh_wsEEAAAAJ&hl=en) and Dr. Alivelu Manga Parimi(https://universe.bits-pilani.ac.in/hyderabad/alivelu/profile).
+I am fortunate to have actively collaborated with [Dr. Rajesh Kumar Tripathy](https://scholar.google.com/citations?user=cvw_YK8AAAAJ&hl=en), [Dr. Parikshit Sahatiya](https://scholar.google.co.in/citations?user=sh_wsEEAAAAJ&hl=en) and [Dr. Alivelu Manga Parimi](https://universe.bits-pilani.ac.in/hyderabad/alivelu/profile).
 
 Do reach out to me be it for a collaboration or a simple chat.
 
