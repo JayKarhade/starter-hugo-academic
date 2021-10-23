@@ -1,39 +1,33 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jay Karhade
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergradate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: BITS Pilani, India
+  url: https://www.bits-pilani.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a final year Electrical Engineering Undergrad and currently a visiting research student at the [Advanced Robotics Centre,NUS](https://arc.nus.edu.sg/).
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Visual Computing and Machine Learning
+- Robotics
+- AI for healthcare
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.E Electrical and Electronics Engineering
+    institution: Birla Institute of Technology and Sciences
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,30 +42,37 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=rmvlyAgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/JayKarhade
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jay-karhade-70177a182/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: https://drive.google.com/file/d/1kGUiXMgdFaxZNyyffrdQTxryBmkQCHTS/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jaykarhade3@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Hi there!
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a final year student at BITS Pilani, Hyderabad Campus. I focus on applying Computer Vision and Machine Learning for varied applications ranging from AI for healthcare to Robot Perception and Robot Learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+At the moment, I am pursuing my undergraduate thesis at the Advanced Robotics Centre,NUS where I am advised by Prof. Marcelo Ang. I’m working on Neural Rendering for Point Clouds at the moment and researching on AI for Visual SLAM systems for my thesis. Alongside, i am working on applying few-shot learning for healthcare diagnostics. I interned at the Edifice Lab over the course of the summer for developing collaborative dense SLAM systems and Point Cloud Compression.
+
+I am fortunate to have actively collaborated with [Dr. Rajesh Kumar Tripathy](https://scholar.google.com/citations?user=cvw_YK8AAAAJ&hl=en), Dr. Parikshit Sahatiya(https://scholar.google.co.in/citations?user=sh_wsEEAAAAJ&hl=en) and Dr. Alivelu Manga Parimi(https://universe.bits-pilani.ac.in/hyderabad/alivelu/profile).
+
+Do reach out to me be it for a collaboration or a simple chat.
+
+Cheers!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
