@@ -35,7 +35,7 @@ publication_short: In *Applied Sciences"
 abstract: Myocardial infarction (MI) occurs due to the decrease in the blood flow into one part of the heart, and it further causes damage to the heart muscle. The 12-channel electrocardiogram (ECG) has been widely used to detect and localize MI pathology in clinical studies. The vectorcardiogram (VCG) is a 3-channel recording system used to measure the heart’s electrical activity in sagittal, transverse, and frontal planes. The VCG signals have advantages over the 12-channel ECG to localize posterior MI pathology. Detection and localization of MI using VCG signals are vital in clinical practice. This paper proposes a multi-channel multi-scale two-stage deep-learning-based approach to detect and localize MI using VCG signals. In the first stage, the multivariate variational mode decomposition (MVMD) decomposes the three-channel-based VCG signal beat into five components along each channel. The multi-channel multi-scale VCG tensor is formulated using the modes of each channel of VCG data, and it is used as the input to the deep convolutional neural network (CNN) to classify MI and normal sinus rhythm (NSR) classes. In the second stage, the multi-class deep CNN is used for the categorization of anterior MI (AMI), anterior-lateral MI (ALMI), anterior-septal MI (ASMI), inferior MI (IMI), inferior-lateral MI (ILMI), inferior-posterior-lateral (IPLMI) classes using MI detected multi-channel multi-scale VCG instances from the first stage. The proposed approach is developed using the VCG data obtained from a public database. The results reveal that the approach has obtained the accuracy, sensitivity, and specificity values of 99.58%, 99.18%, and 99.87%, respectively, for MI detection. Moreover, for MI localization, we have obtained the overall accuracy value of 99.86% in the second stage for our proposed network. The proposed approach has demonstrated superior classification performance compared to the existing VCG signal-based MI detection and localization techniques. View Full-Text
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We propose a two-stage CNN network for detection and localization of Myocardial Infarction via VCG signals.
 
 tags: []
 
@@ -58,10 +58,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 
+  focal_point: 
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -78,13 +78,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
-
-#{{% callout note %}}
-#Create your slides in Markdown - click the *Slides* button to check out the example.
-#{{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
