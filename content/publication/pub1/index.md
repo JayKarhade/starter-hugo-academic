@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Multichannel Multiscale Two-Stage Convolutional Neural Network for the Detection and Localization of Myocardial Infarction Using Vectorcardiogram Signal"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
