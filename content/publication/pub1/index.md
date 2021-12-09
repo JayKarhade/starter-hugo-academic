@@ -11,11 +11,6 @@ authors:
 - Rajesh Kumar Tripathy
 - U Rajendra Acharya
 
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
 date: "2021-08-01T00:00:00Z"
 doi: "https://doi.org/10.3390/app11177920"
 
