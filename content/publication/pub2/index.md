@@ -12,8 +12,13 @@ authors:
 - Rajesh Kumar Tripathy
 - U Rajendra Acharya
 
+author_notes:
+- equal contribution
+- equal contribution
+
 date: "2021-10-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.compbiomed.2021.104783"
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-10-01T00:00:00Z"
