@@ -38,7 +38,7 @@ appointment_url:
 contact_links:
   - icon:
     icon_pack:
-    name: DM Me
+    name:
     link:
   - icon:
     icon_pack:
