@@ -73,4 +73,4 @@ Do reach out to me be it for a collaboration or a simple chat.
 
 Cheers!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Download my [Resume](https://drive.google.com/file/d/1kGUiXMgdFaxZNyyffrdQTxryBmkQCHTS/view)
