@@ -44,17 +44,6 @@ experience:
     date_end: '2021-07-31'
     description: Developed collaborative dense SLAM pipelines. 
                   Working on point cloud compression.
-
-  - title: Robotics Engineering Intern
-    company: UV Robots
-    company_url: https://uvrobots.io/
-    company_logo: 
-    location: London
-    date_start: '2019-07-05'
-    date_end: '2021-01-20'
-    description: Developed software for autonomous
-mobile robots for restaurant deliveries and later for UV Disinfection.
-
 design:
   columns: '2'
 ---
